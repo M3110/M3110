@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**M3110/M3110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## <h3 align="center">GitHub Stats</h3>
  </br>
  
@@ -10,6 +7,9 @@
  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=M3110&include_all_commits=true&show_icons=true&title_color=2cc1eb&text_color=e7e7e7&icon_color=2cc1eb&bg_color=0b0e13"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M3110&layout=compact&title_color=2cc1eb&text_color=e7e7e7&icon_color=007bff&bg_color=0b0e13"/>
 </div>
+
+<!--
+**M3110/M3110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
