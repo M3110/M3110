@@ -2,15 +2,33 @@
 
 <p>Bem-vindo à minha página! </br> Sou o <b>Bruno Silveira</b>, Engenheiro de Software Sênior na Stone e Engenheiro Mecânico (CEFET/RJ), de <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b>São Gonçalo, Rio de Janeiro, Brasil</b>. </p>
 
-<h3>Tecnologias</h3>
+<h3>Tecnologias e Ferramentas</h3>
 <p>
+  <b>💻 Linguagens & Frameworks:</b><br/>
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img alt="C/C++" src="https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+</p>
+<p>
+  <b>🗄️ Bancos de Dados & Infraestrutura:</b><br/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="SQL Server" src="https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="C/C++" src="https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+</p>
+<p>
+  <b>⚙️ Engenharia & Simulação:</b><br/>
+  <img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
+  <img alt="SolidWorks" src="https://img.shields.io/badge/-SolidWorks-E32213?style=flat-square" />
+  <img alt="Ansys" src="https://img.shields.io/badge/-Ansys-FFB71B?style=flat-square&logo=ansys&logoColor=black" />
+  <img alt="OriginPro" src="https://img.shields.io/badge/-OriginPro-005187?style=flat-square" />
+</p>
+<p>
+  <b>📊 Observabilidade & Monitoramento:</b><br/>
+  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+  <img alt="Splunk" src="https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
+  <img alt="SolarWinds DPA" src="https://img.shields.io/badge/-SolarWinds_DPA-F58020?style=flat-square" />
 </p>
 
 <h3>Experiência em Destaque</h3>
