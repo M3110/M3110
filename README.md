@@ -2,16 +2,11 @@
 
 <p>Bem-vindo à minha página! </br> Sou o <b>Bruno Silveira</b>, Engenheiro de Software Sênior na Stone e Engenheiro Mecânico (CEFET/RJ), de <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b>São Gonçalo, Rio de Janeiro, Brasil</b>. </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bruno-m-silveira&show_icons=true&theme=transparent&hide_border=true&title_color=343b41&icon_color=343b41&text_color=343b41" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-m-silveira&layout=compact&theme=transparent&hide_border=true&title_color=343b41&text_color=343b41" alt="Linguagens Mais Utilizadas" />
-</p>
-
 <h3>🔭 O que estou construindo</h3>
 <ul>
   <li>Mantendo o repositório open-source <b><a href="https://github.com/mellosilveira/Tools" target="_blank" rel="noopener noreferrer">Tools</a></b>, centralizando utilitários e ferramentas de desenvolvimento.</li>
   <li>Explorando a integração de <b>Inteligência Artificial e Machine Learning</b> aplicados à otimização de modelagens mecânicas e ao desenvolvimento de ferramentas educacionais.</li>
-  <li>Arquitetando aplicações privadas e de uso acadêmico focadas no padrão <b>White-Label</b> para mobile (certificações OAB/CFC) e em <b>Domain-Driven Design (DDD)</b> para simulação de pesquisas biomecânicas.</li>
+  <li>Arquitetando aplicações privadas e de uso acadêmico focadas no padrão <b>White-Label</b> e em <b>Domain-Driven Design (DDD)</b> para simulação de pesquisas biomecânicas.</li>
 </ul>
 
 <h3>Tecnologias e Ferramentas</h3>
@@ -74,4 +69,22 @@
   <li><a href="https://doi.org/10.1007/978-3-031-93646-3_36" target="_blank" rel="noopener noreferrer"><b>Exploring the impact of viscoelasticity on mechanical performance in porcine knee ligaments through static load analysis</b></a><br/><i>IFMBE Proceedings (2025).</i></li>
   <li><a href="https://doi.org/10.1007/978-3-031-49401-7_32" target="_blank" rel="noopener noreferrer"><b>Modeling the viscoelastic load share between knee porcine ligaments</b></a><br/><i>Book chapter (2024).</i></li>
   <li><a href="https://doi.org/10.26678/abcm.enebi2022.eeb22-0070" target="_blank" rel="noopener noreferrer"><b>The influence of the viscous phenomenon on the mechanical performance of a knee ligament</b></a><br/><i>Anais do VII Encontro Nacional de Engenharia Biomecânica (2022).</i></li>
-  <li><a href="https://doi.org/10.26678/abcm.cobem2021.cob2021-1114" target="_blank" rel="noopener noreferrer"><b>Experimental characterization of porcine ligaments</b></a><br/><i>Proceedings of the 26th International Congress of Mechanical Engineering (2
+  <li><a href="https://doi.org/10.26678/abcm.cobem2021.cob2021-1114" target="_blank" rel="noopener noreferrer"><b>Experimental characterization of porcine ligaments</b></a><br/><i>Proceedings of the 26th International Congress of Mechanical Engineering (2021).</i></li>
+  <li><a href="https://doi.org/10.26678/abcm.cobem2021.cob2021-1122" target="_blank" rel="noopener noreferrer"><b>Viscoelastic modeling of porcine ligaments</b></a><br/><i>Proceedings of the 26th International Congress of Mechanical Engineering (2021).</i></li>
+</ul>
+
+<h3>Sobre mim</h3>
+<p>
+  Minha trajetória na tecnologia iniciou-se em equipes universitárias (Formula e Baja SAE) e na pesquisa acadêmica. Na Stone, evoluí para Engenheiro de Software Sênior, gerenciando sistemas críticos e prazos desafiadores. Paralelamente, atuo como consultor full-stack entregando plataformas e ERPs robustos.
+</p>
+
+<h3>Onde me encontrar</h3>
+<p>
+  <a href="https://www.linkedin.com/in/bruno-m-silveira" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="mailto:bruno.silveira.mss@gmail.com" target="_blank" rel="noopener noreferrer"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <br>
+  <img src="https://profile-counter.glitch.me/M3110/count.svg" alt="Contador de Visitas" />
+</p>
