@@ -1,5 +1,6 @@
 # Olá! Eu sou o Bruno Silveira 👋
 
+<!--
 Sou um Engenheiro de Software Sênior na Stone e Engenheiro Mecânico, focado em resolver problemas analíticos complexos e em arquitetar sistemas financeiros de alta disponibilidade[cite: 1]. Minha jornada na tecnologia começou em equipes de design universitário, como a Formula e Baja SAE, e evoluiu para o desenvolvimento de aplicações corporativas robustas e simulações numéricas avançadas[cite: 1].
 
 ## 🚀 O que eu construo
